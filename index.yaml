@@ -3,7 +3,7 @@ entries:
   listshop-api:
   - apiVersion: v2
     appVersion: 1.11.0
-    created: "2023-01-19T05:48:41.278271101Z"
+    created: "2023-01-19T06:19:39.631452131Z"
     description: A Helm chart for Kubernetes
     digest: f619963660c9e246218c91fe3459a46cdc6d8ce93eccff2554b90aa2a02aa366
     name: listshop-api
@@ -13,7 +13,7 @@ entries:
     version: 1.11.0+b7bfb7a
   - apiVersion: v2
     appVersion: 1.10.2
-    created: "2023-01-19T05:48:41.277696898Z"
+    created: "2023-01-19T06:19:39.630798526Z"
     description: A Helm chart for Kubernetes
     digest: 396de146abf44ab480d1a34f4747e7ae07e46fff76bec0e56fbd420d5e58bd12
     name: listshop-api
@@ -23,7 +23,7 @@ entries:
     version: 1.10.2+5fe1e4c
   - apiVersion: v2
     appVersion: 1.10.1
-    created: "2023-01-19T05:48:41.277160995Z"
+    created: "2023-01-19T06:19:39.630008621Z"
     description: A Helm chart for Kubernetes
     digest: 65c1e4b9fac92b099e99a38bdc17fa6378b8eb32885d3dd5723edd2445480c37
     name: listshop-api
@@ -33,8 +33,18 @@ entries:
     version: 1.10.1+87cfc68
   listshop-web:
   - apiVersion: v2
+    appVersion: 2.4.4
+    created: "2023-01-19T06:19:39.633292243Z"
+    description: A Helm chart for Kubernetes
+    digest: 060e1dee05ba80e89cc804daf15c09f79eb359d5e92fa0f31e639e438e43523d
+    name: listshop-web
+    type: application
+    urls:
+    - listshop-web-2.4.4+dfc9e16.tgz
+    version: 2.4.4+dfc9e16
+  - apiVersion: v2
     appVersion: 2.4.3
-    created: "2023-01-19T05:48:41.280082011Z"
+    created: "2023-01-19T06:19:39.632686939Z"
     description: A Helm chart for Kubernetes
     digest: eb9518c6d78def01640a97a6c7920d97af6a4c04fc34d699f2e23dac3fddf56a
     name: listshop-web
@@ -44,7 +54,7 @@ entries:
     version: 2.4.3+49b998d
   - apiVersion: v2
     appVersion: 2.4.1
-    created: "2023-01-19T05:48:41.279384207Z"
+    created: "2023-01-19T06:19:39.632083735Z"
     description: A Helm chart for Kubernetes
     digest: a3f7d7e5f5050074bd34e13ecfb66afc78bdd00f39aae52e244e3688dc3bb0a9
     name: listshop-web
@@ -52,4 +62,4 @@ entries:
     urls:
     - listshop-web-2.4.2+ed956ff.tgz
     version: 2.4.2+ed956ff
-generated: "2023-01-19T05:48:41.276375991Z"
+generated: "2023-01-19T06:19:39.6267893Z"
