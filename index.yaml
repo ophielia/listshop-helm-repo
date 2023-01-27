@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   listshop-api:
   - apiVersion: v2
+    appVersion: 1.11.15-i
+    created: "2023-01-27T22:37:35.58949564Z"
+    description: A Helm chart for Kubernetes
+    digest: a0df387785e02a650a295e294c7e50b9f0cf333e510ba57d3f203046abd982aa
+    name: listshop-api
+    type: application
+    urls:
+    - listshop-api-1.11.15-i+65725ec.tgz
+    version: 1.11.15-i+65725ec
+  - apiVersion: v2
     appVersion: 1.11.14-i
-    created: "2023-01-27T12:07:04.607262876Z"
+    created: "2023-01-27T22:37:35.588983235Z"
     description: A Helm chart for Kubernetes
     digest: cd2890ac9f1465f85ea02c35d44d38f283321607b85bef7b0154b90ddaf68c54
     name: listshop-api
@@ -13,7 +23,7 @@ entries:
     version: 1.11.14-i+ba77f5e
   - apiVersion: v2
     appVersion: 1.11.13-i
-    created: "2023-01-27T12:07:04.602405043Z"
+    created: "2023-01-27T22:37:35.58847093Z"
     description: A Helm chart for Kubernetes
     digest: ba2023c4514f12b97637a3c6dbd82c1d3241d165099aa1c2ad54c07b4d29397e
     name: listshop-api
@@ -23,7 +33,7 @@ entries:
     version: 1.11.13-i+826af48
   - apiVersion: v2
     appVersion: 1.11.12-i
-    created: "2023-01-27T12:07:04.601676738Z"
+    created: "2023-01-27T22:37:35.587972525Z"
     description: A Helm chart for Kubernetes
     digest: c04f1c45370730e7432ece4cbacbb4723275d2d8264575b74f85c0d4a6d8cab6
     name: listshop-api
@@ -33,7 +43,7 @@ entries:
     version: 1.11.12-i+5e9ff3b
   - apiVersion: v2
     appVersion: 1.11.11-i
-    created: "2023-01-27T12:07:04.601003834Z"
+    created: "2023-01-27T22:37:35.58748462Z"
     description: A Helm chart for Kubernetes
     digest: e6f97073a0441cdf903dfb0ddf526c6e139af3b91d5a343936fafb8fe6f8bd17
     name: listshop-api
@@ -43,7 +53,7 @@ entries:
     version: 1.11.11-i+6848bb9
   - apiVersion: v2
     appVersion: 1.11.10-i
-    created: "2023-01-27T12:07:04.60051143Z"
+    created: "2023-01-27T22:37:35.586986915Z"
     description: A Helm chart for Kubernetes
     digest: e48fe8c3ef633f1dccde4066ca65ac9aa2cfb9e7c39bde89768ddb067610f11c
     name: listshop-api
@@ -53,7 +63,7 @@ entries:
     version: 1.11.10-i+fad5cca
   - apiVersion: v2
     appVersion: 1.11.9-i
-    created: "2023-01-27T12:07:04.6107376Z"
+    created: "2023-01-27T22:37:35.592827475Z"
     description: A Helm chart for Kubernetes
     digest: 97511ea33d256c65605df954029d2b10dc124a3f2b5700eda326e9dfbc6161d3
     name: listshop-api
@@ -63,7 +73,7 @@ entries:
     version: 1.11.9-i+64604fd
   - apiVersion: v2
     appVersion: 1.11.8-i
-    created: "2023-01-27T12:07:04.610274397Z"
+    created: "2023-01-27T22:37:35.59236237Z"
     description: A Helm chart for Kubernetes
     digest: 7f3298d791be830f9fc6acf0a09c6c350a3c8aa0d9ababb10bdb62ea1d58ca4d
     name: listshop-api
@@ -73,7 +83,7 @@ entries:
     version: 1.11.8-i+2ab3c62
   - apiVersion: v2
     appVersion: 1.11.7-i
-    created: "2023-01-27T12:07:04.609783293Z"
+    created: "2023-01-27T22:37:35.591900565Z"
     description: A Helm chart for Kubernetes
     digest: c110d99d890951b08cb7951e74063af4583be39b5a9d343d4000a0e3fbac6cd7
     name: listshop-api
@@ -83,7 +93,7 @@ entries:
     version: 1.11.7-i+66a053d
   - apiVersion: v2
     appVersion: 1.11.5-i
-    created: "2023-01-27T12:07:04.60931019Z"
+    created: "2023-01-27T22:37:35.59143176Z"
     description: A Helm chart for Kubernetes
     digest: a4fd9ae5efa246f1911bbd5d5107bc1a02a0b3a29fbf18be5ca87d314e708a61
     name: listshop-api
@@ -93,7 +103,7 @@ entries:
     version: 1.11.5-i+8936d5b
   - apiVersion: v2
     appVersion: 1.11.4-i
-    created: "2023-01-27T12:07:04.608826187Z"
+    created: "2023-01-27T22:37:35.590954555Z"
     description: A Helm chart for Kubernetes
     digest: 2bdd5911e033fd6dcf386220063c794b9d2860d33c9edf50a013fb36f1c7d453
     name: listshop-api
@@ -103,7 +113,7 @@ entries:
     version: 1.11.4-i+c404d6a
   - apiVersion: v2
     appVersion: 1.11.3-i
-    created: "2023-01-27T12:07:04.608346384Z"
+    created: "2023-01-27T22:37:35.590492151Z"
     description: A Helm chart for Kubernetes
     digest: 772967bef94e24e92abbf717b7aff87f62a51fe842a2faab5223453996012981
     name: listshop-api
@@ -113,7 +123,7 @@ entries:
     version: 1.11.3-i+685fc0b
   - apiVersion: v2
     appVersion: 1.11.2-i
-    created: "2023-01-27T12:07:04.60784058Z"
+    created: "2023-01-27T22:37:35.589981245Z"
     description: A Helm chart for Kubernetes
     digest: 8ce05addbcc40c8d9003c5d6c10403499ac2d40908ab843ea8e62ceeddf8bc64
     name: listshop-api
@@ -123,7 +133,7 @@ entries:
     version: 1.11.2-i+02fb209
   - apiVersion: v2
     appVersion: 1.11.1-i
-    created: "2023-01-27T12:07:04.600021827Z"
+    created: "2023-01-27T22:37:35.58647891Z"
     description: A Helm chart for Kubernetes
     digest: 220c46ca89b16765dbf507f0941d9a9bb94c24f296b1eff538408cdf5ed3fbd2
     name: listshop-api
@@ -133,7 +143,7 @@ entries:
     version: 1.11.1-i+0c816cb
   - apiVersion: v2
     appVersion: 1.11.0
-    created: "2023-01-27T12:07:04.599526624Z"
+    created: "2023-01-27T22:37:35.585163696Z"
     description: A Helm chart for Kubernetes
     digest: f619963660c9e246218c91fe3459a46cdc6d8ce93eccff2554b90aa2a02aa366
     name: listshop-api
@@ -143,7 +153,7 @@ entries:
     version: 1.11.0+b7bfb7a
   - apiVersion: v2
     appVersion: 1.10.2
-    created: "2023-01-27T12:07:04.599061621Z"
+    created: "2023-01-27T22:37:35.584228287Z"
     description: A Helm chart for Kubernetes
     digest: 396de146abf44ab480d1a34f4747e7ae07e46fff76bec0e56fbd420d5e58bd12
     name: listshop-api
@@ -153,7 +163,7 @@ entries:
     version: 1.10.2+5fe1e4c
   - apiVersion: v2
     appVersion: 1.10.1
-    created: "2023-01-27T12:07:04.598551417Z"
+    created: "2023-01-27T22:37:35.583707781Z"
     description: A Helm chart for Kubernetes
     digest: 65c1e4b9fac92b099e99a38bdc17fa6378b8eb32885d3dd5723edd2445480c37
     name: listshop-api
@@ -164,7 +174,7 @@ entries:
   listshop-web:
   - apiVersion: v2
     appVersion: 2.4.5-i
-    created: "2023-01-27T12:07:04.612836914Z"
+    created: "2023-01-27T22:37:35.596143508Z"
     description: A Helm chart for Kubernetes
     digest: d2d4a5b349622060a0a7d0062004a0829a1718b433ee3f3a60eee08532367b70
     name: listshop-web
@@ -174,7 +184,7 @@ entries:
     version: 2.4.5-i+408f164
   - apiVersion: v2
     appVersion: 2.4.4
-    created: "2023-01-27T12:07:04.61227081Z"
+    created: "2023-01-27T22:37:35.595675504Z"
     description: A Helm chart for Kubernetes
     digest: 060e1dee05ba80e89cc804daf15c09f79eb359d5e92fa0f31e639e438e43523d
     name: listshop-web
@@ -184,7 +194,7 @@ entries:
     version: 2.4.4+dfc9e16
   - apiVersion: v2
     appVersion: 2.4.3
-    created: "2023-01-27T12:07:04.611771307Z"
+    created: "2023-01-27T22:37:35.594733394Z"
     description: A Helm chart for Kubernetes
     digest: eb9518c6d78def01640a97a6c7920d97af6a4c04fc34d699f2e23dac3fddf56a
     name: listshop-web
@@ -194,7 +204,7 @@ entries:
     version: 2.4.3+49b998d
   - apiVersion: v2
     appVersion: 2.4.1
-    created: "2023-01-27T12:07:04.611241403Z"
+    created: "2023-01-27T22:37:35.593265179Z"
     description: A Helm chart for Kubernetes
     digest: a3f7d7e5f5050074bd34e13ecfb66afc78bdd00f39aae52e244e3688dc3bb0a9
     name: listshop-web
@@ -202,4 +212,4 @@ entries:
     urls:
     - listshop-web-2.4.2+ed956ff.tgz
     version: 2.4.2+ed956ff
-generated: "2023-01-27T12:07:04.597806712Z"
+generated: "2023-01-27T22:37:35.582984074Z"
