@@ -5,17 +5,20 @@ on:
     branches: [ main ]
     paths:
     - '**.tgz'
+  workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: Git Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v7
     - name: Helm Installation
-      uses: azure/setup-helm@v3
+      uses: azure/setup-helm@v5
       with:
-        version: v3.7.0
+        version: latest
     - name: Update Index
       run: |
         helm repo index .
